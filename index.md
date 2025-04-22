@@ -4,4 +4,4 @@
 
 
 #### Now adding one small image ####
-![Sample image of yaktocat] (https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
