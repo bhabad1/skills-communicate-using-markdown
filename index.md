@@ -17,3 +17,10 @@ for(let i=0; i<5;i++){
   console.log("Example of for loop in JS!")
 }
 ```
+
+
+#### Lets add some task list ####
+- [ ] My first task
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
